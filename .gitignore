@@ -1,1 +1,4 @@
 github_token.txt
+iconitem/*
+!iconitem/.nyannitem_icon_index.json
+!iconitem/nyannitem.json
