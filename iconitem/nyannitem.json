@@ -7963,5 +7963,2588 @@
       "Falte Face",
       "ファルーテフェイス"
     ]
+  },
+  {
+    "code": "1140",
+    "names": [
+      "Ainz Replica [Fu]",
+      "アインズ・レプカ[Fu]"
+    ]
+  },
+  {
+    "code": "1141",
+    "names": [
+      "Momon Replica [Fu]",
+      "モモン・レプカ[Fu]"
+    ]
+  },
+  {
+    "code": "1142",
+    "names": [
+      "Albedo Armor [Se]",
+      "アルベドの鎧[Se]"
+    ]
+  },
+  {
+    "code": "1143",
+    "names": [
+      "Albedo Costume [Se]",
+      "アルベドの服[Se]"
+    ]
+  },
+  {
+    "code": "1144",
+    "names": [
+      "Ainz Mask",
+      "アインズマスク"
+    ]
+  },
+  {
+    "code": "1145",
+    "names": [
+      "Albedo Mask",
+      "アルベドマスク"
+    ]
+  },
+  {
+    "code": "1146",
+    "names": [
+      "Albedo Hair",
+      "アルベドヘアー"
+    ]
+  },
+  {
+    "code": "1147",
+    "names": [
+      "Regal Hair",
+      "フウガヘアー"
+    ]
+  },
+  {
+    "code": "1148",
+    "names": [
+      "Rapid Helm",
+      "ラピートヘルム"
+    ]
+  },
+  {
+    "code": "1149",
+    "names": [
+      "Drachen Helm",
+      "ドラッヘヘルム"
+    ]
+  },
+  {
+    "code": "1150",
+    "names": [
+      "Drachen Helm/B",
+      "ドラッヘヘルム/B"
+    ]
+  },
+  {
+    "code": "1151",
+    "names": [
+      "Lucciola Eyes/B",
+      "ルシオーラアイ/B"
+    ]
+  },
+  {
+    "code": "1152",
+    "names": [
+      "Knockout Eyelashes",
+      "キメテルまつげ"
+    ]
+  },
+  {
+    "code": "1153",
+    "names": [
+      "Autumnal Thigh-Highs/B",
+      "ユーゲンニーソ/B"
+    ]
+  },
+  {
+    "code": "1154",
+    "names": [
+      "Lapin Tights/B",
+      "ラパンナタイツ/B"
+    ]
+  },
+  {
+    "code": "1155",
+    "names": [
+      "N-Genshou Tights T2",
+      "N-ゲンショウタイツT2"
+    ]
+  },
+  {
+    "code": "1156",
+    "names": [
+      "N-Genshou Tights T2/B",
+      "N-ゲンショウタイツT2/B"
+    ]
+  },
+  {
+    "code": "1157",
+    "names": [
+      "Lapin Tights",
+      "ラパンナタイツ"
+    ]
+  },
+  {
+    "code": "1158",
+    "names": [
+      "Autumnal Thigh-Highs",
+      "ユーゲンニーソ"
+    ]
+  },
+  {
+    "code": "1159",
+    "names": [
+      "Leggera Undergarments",
+      "レジェーラアンダーウェア"
+    ]
+  },
+  {
+    "code": "1160",
+    "names": [
+      "Albedo Wings",
+      "アルベドウィング"
+    ]
+  },
+  {
+    "code": "1161",
+    "names": [
+      "Nemain Schurzen",
+      "ネヴァーンシュルツェン"
+    ]
+  },
+  {
+    "code": "1162",
+    "names": [
+      "Hu-Xian Tail",
+      "フーシエテイル"
+    ]
+  },
+  {
+    "code": "1163",
+    "names": [
+      "Black Fox Mask",
+      "クローノキツネメン"
+    ]
+  },
+  {
+    "code": "1164",
+    "names": [
+      "Celerity Mask",
+      "セレーラマスク"
+    ]
+  },
+  {
+    "code": "1165",
+    "names": [
+      "Tenzan Decorative Katana",
+      "テンザンモゾートウ"
+    ]
+  },
+  {
+    "code": "1166",
+    "names": [
+      "Glowcube",
+      "グローキューブ"
+    ]
+  },
+  {
+    "code": "1167",
+    "names": [
+      "Tenzan Yamagasa",
+      "テンザンヤマガサ"
+    ]
+  },
+  {
+    "code": "1168",
+    "names": [
+      "Yuet Ichimegasa",
+      "ユエトイチメガサ"
+    ]
+  },
+  {
+    "code": "1169",
+    "names": [
+      "Lealu Hairband",
+      "レアールカチューシャ"
+    ]
+  },
+  {
+    "code": "1170",
+    "names": [
+      "Holographic HUD",
+      "エアリーディスプレイ"
+    ]
+  },
+  {
+    "code": "1171",
+    "names": [
+      "Test-tube Belt",
+      "テストチューブベルト"
+    ]
+  },
+  {
+    "code": "1172",
+    "names": [
+      "Blooming Waist Cape",
+      "ハナサキウェストマント"
+    ]
+  },
+  {
+    "code": "1173",
+    "names": [
+      "Blooming Waist Cape/B",
+      "ハナサキウェストマント/B"
+    ]
+  },
+  {
+    "code": "1174",
+    "names": [
+      "Floating Phantasma",
+      "フワフワファンタズマ"
+    ]
+  },
+  {
+    "code": "1175",
+    "names": [
+      "Goldfish Ribbon",
+      "ワキンリボン"
+    ]
+  },
+  {
+    "code": "1176",
+    "names": [
+      "Seizan Mask",
+      "セイザンマスク"
+    ]
+  },
+  {
+    "code": "1177",
+    "names": [
+      "Nemain Escudo",
+      "ネヴァーンエスクード"
+    ]
+  },
+  {
+    "code": "1178",
+    "names": [
+      "Dango Extension",
+      "フワダンゴエクステ"
+    ]
+  },
+  {
+    "code": "1179",
+    "names": [
+      "RAPI-X Hard Laborer [Fu]",
+      "RA-PEXストロングワーカー[Fu]"
+    ]
+  },
+  {
+    "code": "1180",
+    "names": [
+      "RAPI-X Hard Laborer/2 [Fu]",
+      "RA-PEXストロングワーカー/2[Fu]"
+    ]
+  },
+  {
+    "code": "1181",
+    "names": [
+      "MAX-1000 Jacket T1 [Ou]",
+      "MAX-1000ジャケットT1[Ou]"
+    ]
+  },
+  {
+    "code": "1182",
+    "names": [
+      "MAX-1000 Jacket T1/2 [Ou]",
+      "MAX-1000ジャケットT1/2[Ou]"
+    ]
+  },
+  {
+    "code": "1183",
+    "names": [
+      "MAX-1000 Jacket T1/B [Ou]",
+      "MAX-1000ジャケットT1/B[Ou]"
+    ]
+  },
+  {
+    "code": "1184",
+    "names": [
+      "MAX-1000 Jacket T1/B2 [Ou]",
+      "MAX-1000ジャケットT1/B2[Ou]"
+    ]
+  },
+  {
+    "code": "1185",
+    "names": [
+      "Stadte Liberati T1 [Ba]",
+      "シュタッテリベラッテT1[Ba]"
+    ]
+  },
+  {
+    "code": "1186",
+    "names": [
+      "Stadte Liberati T1/2 [Ba]",
+      "シュタッテリベラッテT1/2[Ba]"
+    ]
+  },
+  {
+    "code": "1187",
+    "names": [
+      "Stadte Liberati T1/B [Ba]",
+      "シュタッテリベラッテT1/B[Ba]"
+    ]
+  },
+  {
+    "code": "1188",
+    "names": [
+      "Stadte Liberati T1/B2 [Ba]",
+      "シュタッテリベラッテT1/B2[Ba]"
+    ]
+  },
+  {
+    "code": "1189",
+    "names": [
+      "Infilt Body",
+      "インフェルド・ボディ"
+    ]
+  },
+  {
+    "code": "1190",
+    "names": [
+      "Infilt Arms",
+      "インフェルド・アーム"
+    ]
+  },
+  {
+    "code": "1191",
+    "names": [
+      "Infilt Legs",
+      "インフェルド・レッグ"
+    ]
+  },
+  {
+    "code": "1192",
+    "names": [
+      "MAX-1000 Jacket T2 [Ou]",
+      "MAX-1000ジャケットT2[Ou]"
+    ]
+  },
+  {
+    "code": "1193",
+    "names": [
+      "MAX-1000 Jacket T2/2 [Ou]",
+      "MAX-1000ジャケットT2/2[Ou]"
+    ]
+  },
+  {
+    "code": "1194",
+    "names": [
+      "MAX-1000 Jacket T2/B [Ou]",
+      "MAX-1000ジャケットT2/B[Ou]"
+    ]
+  },
+  {
+    "code": "1195",
+    "names": [
+      "MAX-1000 Jacket T2/B2 [Ou]",
+      "MAX-1000ジャケットT2/B2[Ou]"
+    ]
+  },
+  {
+    "code": "1196",
+    "names": [
+      "Stadte Liberati T2 [Ba]",
+      "シュタッテリベラッテT2[Ba]"
+    ]
+  },
+  {
+    "code": "1197",
+    "names": [
+      "Stadte Liberati T2/2 [Ba]",
+      "シュタッテリベラッテT2/2[Ba]"
+    ]
+  },
+  {
+    "code": "1198",
+    "names": [
+      "Stadte Liberati T2/B [Ba]",
+      "シュタッテリベラッテT2/B[Ba]"
+    ]
+  },
+  {
+    "code": "1199",
+    "names": [
+      "Stadte Liberati T2/B2 [Ba]",
+      "シュタッテリベラッテT2/B2[Ba]"
+    ]
+  },
+  {
+    "code": "1200",
+    "names": [
+      "Investig Body",
+      "イフェスティー・ボディ"
+    ]
+  },
+  {
+    "code": "1201",
+    "names": [
+      "Investig Arms",
+      "イフェスティー・アーム"
+    ]
+  },
+  {
+    "code": "1202",
+    "names": [
+      "Investig Legs",
+      "イフェスティー・レッグ"
+    ]
+  },
+  {
+    "code": "1203",
+    "names": [
+      "Stadte Hair",
+      "シュタッテヘアー"
+    ]
+  },
+  {
+    "code": "1204",
+    "names": [
+      "Investig Hair",
+      "イフェスティーヘアー"
+    ]
+  },
+  {
+    "code": "1205",
+    "names": [
+      "Cosmotica Eyes",
+      "コスモティカアイ"
+    ]
+  },
+  {
+    "code": "1206",
+    "names": [
+      "Transparent Eyes",
+      "スキトールアイ"
+    ]
+  },
+  {
+    "code": "1207",
+    "names": [
+      "Shorter Eyebrows",
+      "サラニミジカメまゆ"
+    ]
+  },
+  {
+    "code": "1208",
+    "names": [
+      "Short Eyebrows",
+      "ミジカメまゆ"
+    ]
+  },
+  {
+    "code": "1209",
+    "names": [
+      "Twinkling Diamond Eyelashes",
+      "キラットカラットまつげ"
+    ]
+  },
+  {
+    "code": "1210",
+    "names": [
+      "Spiky Long Lashes/B",
+      "トゲノフッサリまつげ/B"
+    ]
+  },
+  {
+    "code": "1211",
+    "names": [
+      "Cat Eye Shadow",
+      "キャットアイシャドウ"
+    ]
+  },
+  {
+    "code": "1212",
+    "names": [
+      "Cat Eye Shadow/2",
+      "キャットアイシャドウ/2"
+    ]
+  },
+  {
+    "code": "1213",
+    "names": [
+      "Cat Eye Shadow/3",
+      "キャットアイシャドウ/3"
+    ]
+  },
+  {
+    "code": "1214",
+    "names": [
+      "Cat Eye Shadow/4",
+      "キャットアイシャドウ/4"
+    ]
+  },
+  {
+    "code": "1215",
+    "names": [
+      "Gothica Muneca Makeup",
+      "ムニカゴティカメイク"
+    ]
+  },
+  {
+    "code": "1216",
+    "names": [
+      "Gothica Muneca Makeup/B",
+      "ムニカゴティカメイク/B"
+    ]
+  },
+  {
+    "code": "1217",
+    "names": [
+      "Rhinestone Eye Shadow",
+      "ラインストーンアイメイク"
+    ]
+  },
+  {
+    "code": "1218",
+    "names": [
+      "Rhinestone Eye Shadow/B",
+      "ラインストーンアイメイク/B"
+    ]
+  },
+  {
+    "code": "1219",
+    "names": [
+      "Long Metal Gloves",
+      "メタルアームカバー"
+    ]
+  },
+  {
+    "code": "1220",
+    "names": [
+      "Long Metal Gloves/B",
+      "メタルアームカバー/B"
+    ]
+  },
+  {
+    "code": "1221",
+    "names": [
+      "Simple Leather Gloves",
+      "シンプルレザーグローブ"
+    ]
+  },
+  {
+    "code": "1222",
+    "names": [
+      "Simple Leather Gloves/B",
+      "シンプルレザーグローブ/B"
+    ]
+  },
+  {
+    "code": "1223",
+    "names": [
+      "Sleeveless Turtleneck T1",
+      "ハイネックノースリーブT1"
+    ]
+  },
+  {
+    "code": "1224",
+    "names": [
+      "Sleeveless Turtleneck T1/B",
+      "ハイネックノースリーブT1/B"
+    ]
+  },
+  {
+    "code": "1225",
+    "names": [
+      "Sleeveless Turtleneck T2",
+      "ハイネックノースリーブT2"
+    ]
+  },
+  {
+    "code": "1226",
+    "names": [
+      "Sleeveless Turtleneck T2/B",
+      "ハイネックノースリーブT2/B"
+    ]
+  },
+  {
+    "code": "1227",
+    "names": [
+      "Stadte Earring",
+      "シュタッテピアス"
+    ]
+  },
+  {
+    "code": "1228",
+    "names": [
+      "Stadte Shoes",
+      "シュタッテシューズ"
+    ]
+  },
+  {
+    "code": "1229",
+    "names": [
+      "Luminous Bull's Horns",
+      "ルミナスブルズホルン"
+    ]
+  },
+  {
+    "code": "1230",
+    "names": [
+      "Starline Twinkle",
+      "スターライントゥインクル"
+    ]
+  },
+  {
+    "code": "1231",
+    "names": [
+      "Darkside Mask",
+      "ダークサイドマスク"
+    ]
+  },
+  {
+    "code": "1232",
+    "names": [
+      "Fregart Stabilizer",
+      "フレガルテスタビライザー"
+    ]
+  },
+  {
+    "code": "1233",
+    "names": [
+      "Fregart Stabilizer/B",
+      "フレガルテスタビライザー/B"
+    ]
+  },
+  {
+    "code": "1234",
+    "names": [
+      "MH-753 Support Arm",
+      "MH-753サポートアーム"
+    ]
+  },
+  {
+    "code": "1235",
+    "names": [
+      "MH-753 Support Arm/B",
+      "MH-753サポートアーム/B"
+    ]
+  },
+  {
+    "code": "1236",
+    "names": [
+      "Surveillance Eye",
+      "サーベイランスアイ"
+    ]
+  },
+  {
+    "code": "1237",
+    "names": [
+      "Surveillance Eye/B",
+      "サーベイランスアイ/B"
+    ]
+  },
+  {
+    "code": "1238",
+    "names": [
+      "Skelstelth [Se]",
+      "スケルステス[Se]"
+    ]
+  },
+  {
+    "code": "1239",
+    "names": [
+      "Skelstelth/2 [Se]",
+      "スケルステス/2[Se]"
+    ]
+  },
+  {
+    "code": "1240",
+    "names": [
+      "Skelstelth/B [Se]",
+      "スケルステス/B[Se]"
+    ]
+  },
+  {
+    "code": "1241",
+    "names": [
+      "Skelstelth/B2 [Se]",
+      "スケルステス/B2[Se]"
+    ]
+  },
+  {
+    "code": "1242",
+    "names": [
+      "Mountain Parka T1 [Ou]",
+      "マウンテンパーカーT1[Ou]"
+    ]
+  },
+  {
+    "code": "1243",
+    "names": [
+      "Mountain Parka T1/2 [Ou]",
+      "マウンテンパーカーT1/2[Ou]"
+    ]
+  },
+  {
+    "code": "1244",
+    "names": [
+      "Mountain Parka T1/B [Ou]",
+      "マウンテンパーカーT1/B[Ou]"
+    ]
+  },
+  {
+    "code": "1245",
+    "names": [
+      "Mountain Parka T1/B2 [Ou]",
+      "マウンテンパーカーT1/B2[Ou]"
+    ]
+  },
+  {
+    "code": "1246",
+    "names": [
+      "Mountain Parka T1 V2 [Ou]",
+      "マウンテンパーカーT1-V2[Ou]"
+    ]
+  },
+  {
+    "code": "1247",
+    "names": [
+      "Mountain Parka T1 V2/2 [Ou]",
+      "マウンテンパーカーT1-V2/2[Ou]"
+    ]
+  },
+  {
+    "code": "1248",
+    "names": [
+      "Enforge Body",
+      "エンヴォージャー・ボディ"
+    ]
+  },
+  {
+    "code": "1249",
+    "names": [
+      "Enforge Arms",
+      "エンヴォージャー・アーム"
+    ]
+  },
+  {
+    "code": "1250",
+    "names": [
+      "Enforge Legs",
+      "エンヴォージャー・レッグ"
+    ]
+  },
+  {
+    "code": "1251",
+    "names": [
+      "Skelitors [Se]",
+      "スケラトリス[Se]"
+    ]
+  },
+  {
+    "code": "1252",
+    "names": [
+      "Skelitors/2 [Se]",
+      "スケラトリス/2[Se]"
+    ]
+  },
+  {
+    "code": "1253",
+    "names": [
+      "Skelitors/B [Se]",
+      "スケラトリス/B[Se]"
+    ]
+  },
+  {
+    "code": "1254",
+    "names": [
+      "Skelitors/B2 [Se]",
+      "スケラトリス/B2[Se]"
+    ]
+  },
+  {
+    "code": "1255",
+    "names": [
+      "Skelitors [In]",
+      "スケラトリス[In]"
+    ]
+  },
+  {
+    "code": "1256",
+    "names": [
+      "Skelitors/2 [In]",
+      "スケラトリス/2[In]"
+    ]
+  },
+  {
+    "code": "1257",
+    "names": [
+      "Mountain Parka T2 [Ou]",
+      "マウンテンパーカーT2[Ou]"
+    ]
+  },
+  {
+    "code": "1258",
+    "names": [
+      "Mountain Parka T2/2 [Ou]",
+      "マウンテンパーカーT2/2[Ou]"
+    ]
+  },
+  {
+    "code": "1259",
+    "names": [
+      "Mountain Parka T2/B [Ou]",
+      "マウンテンパーカーT2/B[Ou]"
+    ]
+  },
+  {
+    "code": "1260",
+    "names": [
+      "Mountain Parka T2/B2 [Ou]",
+      "マウンテンパーカーT2/B2[Ou]"
+    ]
+  },
+  {
+    "code": "1261",
+    "names": [
+      "Mountain Parka T2 V2 [Ou]",
+      "マウンテンパーカーT2-V2[Ou]"
+    ]
+  },
+  {
+    "code": "1262",
+    "names": [
+      "Mountain Parka T2 V2/2 [Ou]",
+      "マウンテンパーカーT2-V2/2[Ou]"
+    ]
+  },
+  {
+    "code": "1263",
+    "names": [
+      "Florial Body",
+      "フロリアーネ・ボディ"
+    ]
+  },
+  {
+    "code": "1264",
+    "names": [
+      "Florial Arms",
+      "フロリアーネ・アーム"
+    ]
+  },
+  {
+    "code": "1265",
+    "names": [
+      "Florial Legs",
+      "フロリアーネ・レッグ"
+    ]
+  },
+  {
+    "code": "1266",
+    "names": [
+      "Florial Hair",
+      "フロリアーネヘアー"
+    ]
+  },
+  {
+    "code": "1267",
+    "names": [
+      "Skelitors Hair",
+      "スケラトリスヘアー"
+    ]
+  },
+  {
+    "code": "1268",
+    "names": [
+      "Easy Curly Pigtails",
+      "ユルカールツインテール"
+    ]
+  },
+  {
+    "code": "1269",
+    "names": [
+      "Illustratica Eyes/G",
+      "イラスティカアイ/G"
+    ]
+  },
+  {
+    "code": "1270",
+    "names": [
+      "Dark Socket Eyes",
+      "ダークホロウアイ"
+    ]
+  },
+  {
+    "code": "1271",
+    "names": [
+      "Slim Eyebrows/F",
+      "スリムまゆ/F"
+    ]
+  },
+  {
+    "code": "1272",
+    "names": [
+      "Big Bushy Eyebrows",
+      "フトゴツまゆ"
+    ]
+  },
+  {
+    "code": "1273",
+    "names": [
+      "Long Ultimate Eyelashes",
+      "ロンガアルティメットまつげ"
+    ]
+  },
+  {
+    "code": "1274",
+    "names": [
+      "Perfect Lashes/B",
+      "バッチリまつげ/B"
+    ]
+  },
+  {
+    "code": "1275",
+    "names": [
+      "Florial Ears",
+      "フロリアーネイヤー"
+    ]
+  },
+  {
+    "code": "1276",
+    "names": [
+      "Robust Eye Makeup",
+      "ソーケンアイメイク"
+    ]
+  },
+  {
+    "code": "1277",
+    "names": [
+      "Gaudy Glossy Lips",
+      "ハデツヤリップ"
+    ]
+  },
+  {
+    "code": "1278",
+    "names": [
+      "Gaudy Glossy Lips/B",
+      "ハデツヤリップ/B"
+    ]
+  },
+  {
+    "code": "1279",
+    "names": [
+      "Glitter Eye Makeup",
+      "グリッターアイメイク"
+    ]
+  },
+  {
+    "code": "1280",
+    "names": [
+      "Glitter Eye Makeup/B",
+      "グリッターアイメイク/B"
+    ]
+  },
+  {
+    "code": "1281",
+    "names": [
+      "Skelitors Gloves",
+      "スケラトリスグローブ"
+    ]
+  },
+  {
+    "code": "1282",
+    "names": [
+      "Skelitors Gloves/B",
+      "スケラトリスグローブ/B"
+    ]
+  },
+  {
+    "code": "1283",
+    "names": [
+      "Translucent Top",
+      "シースルートップス"
+    ]
+  },
+  {
+    "code": "1284",
+    "names": [
+      "Translucent Top/B",
+      "シースルートップス/B"
+    ]
+  },
+  {
+    "code": "1285",
+    "names": [
+      "Simple Stockings T1",
+      "シンプルストッキングT1"
+    ]
+  },
+  {
+    "code": "1286",
+    "names": [
+      "Simple Stockings T1/B",
+      "シンプルストッキングT1/B"
+    ]
+  },
+  {
+    "code": "1287",
+    "names": [
+      "Simple Stockings T2",
+      "シンプルストッキングT2"
+    ]
+  },
+  {
+    "code": "1288",
+    "names": [
+      "Simple Stockings T2/B",
+      "シンプルストッキングT2/B"
+    ]
+  },
+  {
+    "code": "1289",
+    "names": [
+      "Double Stripe Socks",
+      "ダブルラインソックス"
+    ]
+  },
+  {
+    "code": "1290",
+    "names": [
+      "Double Stripe Socks/B",
+      "ダブルラインソックス/B"
+    ]
+  },
+  {
+    "code": "1291",
+    "names": [
+      "Skelstelth Mask",
+      "スケルステスマスク"
+    ]
+  },
+  {
+    "code": "1292",
+    "names": [
+      "Enforge Stabilizer",
+      "エンヴォージャースタビライザー"
+    ]
+  },
+  {
+    "code": "1293",
+    "names": [
+      "Florial Stabilizer",
+      "フロリアーネスタビライザー"
+    ]
+  },
+  {
+    "code": "1294",
+    "names": [
+      "Radial Light Effect",
+      "レディアルライトエフェクト"
+    ]
+  },
+  {
+    "code": "1295",
+    "names": [
+      "Feathered Wing Extensions",
+      "フェザーウィングエクステ"
+    ]
+  },
+  {
+    "code": "1296",
+    "names": [
+      "Luminous Papillon",
+      "ルミナスパピヨン"
+    ]
+  },
+  {
+    "code": "1297",
+    "names": [
+      "Artifact Wings",
+      "アーティファクトウィング"
+    ]
+  },
+  {
+    "code": "1298",
+    "names": [
+      "MH-194 Power Lifter",
+      "MH-194パワーリフター"
+    ]
+  },
+  {
+    "code": "1299",
+    "names": [
+      "MH-194 Power Lifter/B",
+      "MH-194パワーリフター/B"
+    ]
+  },
+  {
+    "code": "1300",
+    "names": [
+      "Shadowy Hakama [Se]",
+      "エイセンハカマ[Se]"
+    ]
+  },
+  {
+    "code": "1301",
+    "names": [
+      "Shadowy Hakama/2 [Se]",
+      "エイセンハカマ/2[Se]"
+    ]
+  },
+  {
+    "code": "1302",
+    "names": [
+      "Shadowy Hakama/B [Se]",
+      "エイセンハカマ/B[Se]"
+    ]
+  },
+  {
+    "code": "1303",
+    "names": [
+      "Shadowy Hakama/B2 [Se]",
+      "エイセンハカマ/B2[Se]"
+    ]
+  },
+  {
+    "code": "1304",
+    "names": [
+      "Chaosblossom Kaliyuga T1 [Ou]",
+      "カランエイランT1[Ou]"
+    ]
+  },
+  {
+    "code": "1305",
+    "names": [
+      "Chaosblossom Kaliyuga T1/2 [Ou]",
+      "カランエイランT1/2[Ou]"
+    ]
+  },
+  {
+    "code": "1306",
+    "names": [
+      "Chaosblossom Kaliyuga T1/B [Ou]",
+      "カランエイランT1/B[Ou]"
+    ]
+  },
+  {
+    "code": "1307",
+    "names": [
+      "Chaosblossom Kaliyuga T1/B2 [Ou]",
+      "カランエイランT1/B2[Ou]"
+    ]
+  },
+  {
+    "code": "1308",
+    "names": [
+      "Chaosblossom Kaliyuga T1 [Ba]",
+      "カランエイランT1[Ba]"
+    ]
+  },
+  {
+    "code": "1309",
+    "names": [
+      "Chaosblossom Kaliyuga T1/2 [Ba]",
+      "カランエイランT1/2[Ba]"
+    ]
+  },
+  {
+    "code": "1310",
+    "names": [
+      "Chaosblossom Kaliyuga T1/B [Ba]",
+      "カランエイランT1/B[Ba]"
+    ]
+  },
+  {
+    "code": "1311",
+    "names": [
+      "Chaosblossom Kaliyuga T1/B2 [Ba]",
+      "カランエイランT1/B2[Ba]"
+    ]
+  },
+  {
+    "code": "1312",
+    "names": [
+      "Purewind Hermitfox [Se]",
+      "フウショウセンコ[Se]"
+    ]
+  },
+  {
+    "code": "1313",
+    "names": [
+      "Purewind Hermitfox/2 [Se]",
+      "フウショウセンコ/2[Se]"
+    ]
+  },
+  {
+    "code": "1314",
+    "names": [
+      "Purewind Hermitfox/B [Se]",
+      "フウショウセンコ/B[Se]"
+    ]
+  },
+  {
+    "code": "1315",
+    "names": [
+      "Purewind Hermitfox/B2 [Se]",
+      "フウショウセンコ/B2[Se]"
+    ]
+  },
+  {
+    "code": "1316",
+    "names": [
+      "Chaosblossom Kaliyuga T2 [Ou]",
+      "カランエイランT2[Ou]"
+    ]
+  },
+  {
+    "code": "1317",
+    "names": [
+      "Chaosblossom Kaliyuga T2/2 [Ou]",
+      "カランエイランT2/2[Ou]"
+    ]
+  },
+  {
+    "code": "1318",
+    "names": [
+      "Chaosblossom Kaliyuga T2/B [Ou]",
+      "カランエイランT2/B[Ou]"
+    ]
+  },
+  {
+    "code": "1319",
+    "names": [
+      "Chaosblossom Kaliyuga T2/B2 [Ou]",
+      "カランエイランT2/B2[Ou]"
+    ]
+  },
+  {
+    "code": "1320",
+    "names": [
+      "Chaosblossom Kaliyuga T2 [Ba]",
+      "カランエイランT2[Ba]"
+    ]
+  },
+  {
+    "code": "1321",
+    "names": [
+      "Chaosblossom Kaliyuga T2/2 [Ba]",
+      "カランエイランT2/2[Ba]"
+    ]
+  },
+  {
+    "code": "1322",
+    "names": [
+      "Chaosblossom Kaliyuga T2/B [Ba]",
+      "カランエイランT2/B[Ba]"
+    ]
+  },
+  {
+    "code": "1323",
+    "names": [
+      "Chaosblossom Kaliyuga T2/B2 [Ba]",
+      "カランエイランT2/B2[Ba]"
+    ]
+  },
+  {
+    "code": "1324",
+    "names": [
+      "Kaliyuga Hair",
+      "エイランヘアー"
+    ]
+  },
+  {
+    "code": "1325",
+    "names": [
+      "Dream Long Hair",
+      "ゴーシャロングヘアー"
+    ]
+  },
+  {
+    "code": "1326",
+    "names": [
+      "Pop Pupil Eyes",
+      "ポップピューポアイ"
+    ]
+  },
+  {
+    "code": "1327",
+    "names": [
+      "Starlight Eyes",
+      "スターライトアイ"
+    ]
+  },
+  {
+    "code": "1328",
+    "names": [
+      "Luminous X Eyes",
+      "ルミナスエックスアイ"
+    ]
+  },
+  {
+    "code": "1329",
+    "names": [
+      "Kinda Sad Eyebrows",
+      "サビシゲまゆ"
+    ]
+  },
+  {
+    "code": "1330",
+    "names": [
+      "Shaded Parallel Eyebrows",
+      "ボカシヘイコーまゆ"
+    ]
+  },
+  {
+    "code": "1331",
+    "names": [
+      "One-Spike Eyelashes",
+      "トゲノワンポまつげ"
+    ]
+  },
+  {
+    "code": "1332",
+    "names": [
+      "Gaming Eyelashes",
+      "ゲーミングまつげ"
+    ]
+  },
+  {
+    "code": "1333",
+    "names": [
+      "Purewind Makeup",
+      "フウショウメイク"
+    ]
+  },
+  {
+    "code": "1334",
+    "names": [
+      "Purewind Makeup/B",
+      "フウショウメイク/B"
+    ]
+  },
+  {
+    "code": "1335",
+    "names": [
+      "Purewind Lips",
+      "フウショウリップ"
+    ]
+  },
+  {
+    "code": "1336",
+    "names": [
+      "Purewind Lips/B",
+      "フウショウリップ/B"
+    ]
+  },
+  {
+    "code": "1337",
+    "names": [
+      "Luminous Makeup",
+      "ルミナスメイク"
+    ]
+  },
+  {
+    "code": "1338",
+    "names": [
+      "Luminous Makeup/B",
+      "ルミナスメイク/B"
+    ]
+  },
+  {
+    "code": "1339",
+    "names": [
+      "Matte Lips",
+      "マットリップ"
+    ]
+  },
+  {
+    "code": "1340",
+    "names": [
+      "Matte Lips/B",
+      "マットリップ/B"
+    ]
+  },
+  {
+    "code": "1341",
+    "names": [
+      "Fancy Rappy Paint",
+      "ファンシーラッピーペイント"
+    ]
+  },
+  {
+    "code": "1342",
+    "names": [
+      "Fancy Rappy Paint/B",
+      "ファンシーラッピーペイント/B"
+    ]
+  },
+  {
+    "code": "1343",
+    "names": [
+      "Kaliyuga Thigh-Highs",
+      "エイランニーソ"
+    ]
+  },
+  {
+    "code": "1344",
+    "names": [
+      "Kaliyuga Thigh-Highs/B",
+      "エイランニーソ/B"
+    ]
+  },
+  {
+    "code": "1345",
+    "names": [
+      "Kaliyuga Gloves",
+      "エイラングローブ"
+    ]
+  },
+  {
+    "code": "1346",
+    "names": [
+      "Kaliyuga Gloves/B",
+      "エイラングローブ/B"
+    ]
+  },
+  {
+    "code": "1347",
+    "names": [
+      "Muscle Long Sleeve T1",
+      "ジャストフィットロングスリーブT1"
+    ]
+  },
+  {
+    "code": "1348",
+    "names": [
+      "Muscle Long Sleeve T1/B",
+      "ジャストフィットロングスリーブT1/B"
+    ]
+  },
+  {
+    "code": "1349",
+    "names": [
+      "Muscle Long Sleeve T2",
+      "ジャストフィットロングスリーブT2"
+    ]
+  },
+  {
+    "code": "1350",
+    "names": [
+      "Muscle Long Sleeve T2/B",
+      "ジャストフィットロングスリーブT2/B"
+    ]
+  },
+  {
+    "code": "1351",
+    "names": [
+      "Ribbon-Wrap Thigh-Highs",
+      "リボンラップニーソ"
+    ]
+  },
+  {
+    "code": "1352",
+    "names": [
+      "Ribbon-Wrap Thigh-Highs/B",
+      "リボンラップニーソ/B"
+    ]
+  },
+  {
+    "code": "1353",
+    "names": [
+      "Colored Striped Thigh-Highs",
+      "カラーボーダーニーソ"
+    ]
+  },
+  {
+    "code": "1354",
+    "names": [
+      "Colored Striped Thigh-Highs/B",
+      "カラーボーダーニーソ/B"
+    ]
+  },
+  {
+    "code": "1355",
+    "names": [
+      "Purewind Hair Accessory",
+      "フウショウヘアアクセ"
+    ]
+  },
+  {
+    "code": "1356",
+    "names": [
+      "Shadowy Mask",
+      "エイセンマスク"
+    ]
+  },
+  {
+    "code": "1357",
+    "names": [
+      "Shadowy Shoes",
+      "エイセンシューズ"
+    ]
+  },
+  {
+    "code": "1358",
+    "names": [
+      "Kaliyuga Sandals",
+      "エイランサンダル"
+    ]
+  },
+  {
+    "code": "1359",
+    "names": [
+      "Japanese Nail Tips",
+      "ワフゥネイルチップ"
+    ]
+  },
+  {
+    "code": "1360",
+    "names": [
+      "Front Bangs Extensions",
+      "フロントパッツンエクステ"
+    ]
+  },
+  {
+    "code": "1361",
+    "names": [
+      "Dignified Horns",
+      "ディグニファイドホルン"
+    ]
+  },
+  {
+    "code": "1362",
+    "names": [
+      "Grand Hawk Wings",
+      "グランドホークウィング"
+    ]
+  },
+  {
+    "code": "1363",
+    "names": [
+      "Japanese-Style Sandals",
+      "ワソウゲーター"
+    ]
+  },
+  {
+    "code": "1364",
+    "names": [
+      "Suppressio [Ba]",
+      "スプルージオ[Ba]"
+    ]
+  },
+  {
+    "code": "1365",
+    "names": [
+      "Suppressio/2 [Ba]",
+      "スプルージオ/2[Ba]"
+    ]
+  },
+  {
+    "code": "1366",
+    "names": [
+      "Suppressio/B [Ba]",
+      "スプルージオ/B[Ba]"
+    ]
+  },
+  {
+    "code": "1367",
+    "names": [
+      "Suppressio/B2 [Ba]",
+      "スプルージオ/B2[Ba]"
+    ]
+  },
+  {
+    "code": "1368",
+    "names": [
+      "Inhibent [Ba]",
+      "イニヴィエンド[Ba]"
+    ]
+  },
+  {
+    "code": "1369",
+    "names": [
+      "Inhibent/2 [Ba]",
+      "イニヴィエンド/2[Ba]"
+    ]
+  },
+  {
+    "code": "1370",
+    "names": [
+      "Inhibent/B [Ba]",
+      "イニヴィエンド/B[Ba]"
+    ]
+  },
+  {
+    "code": "1371",
+    "names": [
+      "Inhibent/B2 [Ba]",
+      "イニヴィエンド/B2[Ba]"
+    ]
+  },
+  {
+    "code": "1372",
+    "names": [
+      "Suppressia [Ba]",
+      "スプルージア[Ba]"
+    ]
+  },
+  {
+    "code": "1373",
+    "names": [
+      "Suppressia/2 [Ba]",
+      "スプルージア/2[Ba]"
+    ]
+  },
+  {
+    "code": "1374",
+    "names": [
+      "Suppressia/B [Ba]",
+      "スプルージア/B[Ba]"
+    ]
+  },
+  {
+    "code": "1375",
+    "names": [
+      "Suppressia/B2 [Ba]",
+      "スプルージア/B2[Ba]"
+    ]
+  },
+  {
+    "code": "1376",
+    "names": [
+      "Inhiber [Ba]",
+      "イニヴィエーレ[Ba]"
+    ]
+  },
+  {
+    "code": "1377",
+    "names": [
+      "Inhiber/2 [Ba]",
+      "イニヴィエーレ/2[Ba]"
+    ]
+  },
+  {
+    "code": "1378",
+    "names": [
+      "Inhiber/B [Ba]",
+      "イニヴィエーレ/B[Ba]"
+    ]
+  },
+  {
+    "code": "1379",
+    "names": [
+      "Inhiber/B2 [Ba]",
+      "イニヴィエーレ/B2[Ba]"
+    ]
+  },
+  {
+    "code": "1380",
+    "names": [
+      "Inhiber Hair",
+      "イニヴィエーレヘアー"
+    ]
+  },
+  {
+    "code": "1381",
+    "names": [
+      "Suppressia Hair",
+      "スプルージアヘアー"
+    ]
+  },
+  {
+    "code": "1382",
+    "names": [
+      "Concentric Circles Eyes",
+      "コンセントリックサークルアイ"
+    ]
+  },
+  {
+    "code": "1383",
+    "names": [
+      "Demonica Eyes/B",
+      "デモニカアイ/B"
+    ]
+  },
+  {
+    "code": "1384",
+    "names": [
+      "Knitted Eyebrows",
+      "ミケンノまゆ"
+    ]
+  },
+  {
+    "code": "1385",
+    "names": [
+      "Gentle Eyebrows/B",
+      "オダヤカまゆ/B"
+    ]
+  },
+  {
+    "code": "1386",
+    "names": [
+      "One-Spike Eyelashes/B",
+      "トゲノワンポまつげ/B"
+    ]
+  },
+  {
+    "code": "1387",
+    "names": [
+      "Distinct Lifted Eyelashes",
+      "クッキリツリアゲまつげ"
+    ]
+  },
+  {
+    "code": "1388",
+    "names": [
+      "Jagged Teeth",
+      "ギザトゥース"
+    ]
+  },
+  {
+    "code": "1389",
+    "names": [
+      "Hard Gothica Makeup",
+      "ハードゴティカメイク"
+    ]
+  },
+  {
+    "code": "1390",
+    "names": [
+      "Wide-Line Eye Makeup",
+      "ワイドラインアイメイク"
+    ]
+  },
+  {
+    "code": "1391",
+    "names": [
+      "Wide-Line Eye Makeup/B",
+      "ワイドラインアイメイク/B"
+    ]
+  },
+  {
+    "code": "1392",
+    "names": [
+      "Round Rouge",
+      "マンマルチーク"
+    ]
+  },
+  {
+    "code": "1393",
+    "names": [
+      "Round Rouge/B",
+      "マンマルチーク/B"
+    ]
+  },
+  {
+    "code": "1394",
+    "names": [
+      "N-Shoulder Wings T1",
+      "N-ショルダーウィングT1"
+    ]
+  },
+  {
+    "code": "1395",
+    "names": [
+      "N-Shoulder Wings T1/B",
+      "N-ショルダーウィングT1/B"
+    ]
+  },
+  {
+    "code": "1396",
+    "names": [
+      "N-Shoulder Wings T2",
+      "N-ショルダーウィングT2"
+    ]
+  },
+  {
+    "code": "1397",
+    "names": [
+      "N-Shoulder Wings T2/B",
+      "N-ショルダーウィングT2/B"
+    ]
+  },
+  {
+    "code": "1398",
+    "names": [
+      "N-Lower-Back Wings T1",
+      "N-ウェストウィングT1"
+    ]
+  },
+  {
+    "code": "1399",
+    "names": [
+      "N-Lower-Back Wings T1/B",
+      "N-ウェストウィングT1/B"
+    ]
+  },
+  {
+    "code": "1400",
+    "names": [
+      "N-Lower-Back Wings T2",
+      "N-ウェストウィングT2"
+    ]
+  },
+  {
+    "code": "1401",
+    "names": [
+      "N-Lower-Back Wings T2/B",
+      "N-ウェストウィングT2/B"
+    ]
+  },
+  {
+    "code": "1402",
+    "names": [
+      "Enamel Body Suit",
+      "エナメルボディースーツ"
+    ]
+  },
+  {
+    "code": "1403",
+    "names": [
+      "Enamel Body Suit/B",
+      "エナメルボディースーツ/B"
+    ]
+  },
+  {
+    "code": "1404",
+    "names": [
+      "Arm Veins",
+      "アームヴェイン"
+    ]
+  },
+  {
+    "code": "1405",
+    "names": [
+      "Inhiber Cap",
+      "イニヴィエーレキャップ"
+    ]
+  },
+  {
+    "code": "1406",
+    "names": [
+      "Inhiber Cap/B",
+      "イニヴィエーレキャップ/B"
+    ]
+  },
+  {
+    "code": "1407",
+    "names": [
+      "Inhiber Earrings",
+      "イニヴィエーレイヤリング"
+    ]
+  },
+  {
+    "code": "1408",
+    "names": [
+      "Inhiber Restraint",
+      "イニヴィエーレリストレイント"
+    ]
+  },
+  {
+    "code": "1409",
+    "names": [
+      "Inhiber Restraint/B",
+      "イニヴィエーレリストレイント/B"
+    ]
+  },
+  {
+    "code": "1410",
+    "names": [
+      "Inhiber Handcuffs",
+      "イニヴィエーレハンドカフ"
+    ]
+  },
+  {
+    "code": "1411",
+    "names": [
+      "Inhiber Handcuffs/B",
+      "イニヴィエーレハンドカフ/B"
+    ]
+  },
+  {
+    "code": "1412",
+    "names": [
+      "Inhiber Insignia",
+      "イニヴィエーレインシグニア"
+    ]
+  },
+  {
+    "code": "1413",
+    "names": [
+      "Suppressia Boots",
+      "スプルージアブーツ"
+    ]
+  },
+  {
+    "code": "1414",
+    "names": [
+      "Suppressis Circle",
+      "スプルージスサークル"
+    ]
+  },
+  {
+    "code": "1415",
+    "names": [
+      "Suppressis Fetter and Ball",
+      "スプルージスフェターボール"
+    ]
+  },
+  {
+    "code": "1416",
+    "names": [
+      "Inhibent Mask",
+      "イニヴィエンドマスク"
+    ]
+  },
+  {
+    "code": "1417",
+    "names": [
+      "Inhibent Claws",
+      "イニヴィエンドクロー"
+    ]
+  },
+  {
+    "code": "1418",
+    "names": [
+      "Suppressio Mask",
+      "スプルージオマスク"
+    ]
+  },
+  {
+    "code": "1419",
+    "names": [
+      "Translucent Hairband",
+      "シースルーカチューシャ"
+    ]
+  },
+  {
+    "code": "1420",
+    "names": [
+      "Springy Curls Extension",
+      "ユルフワロールエクステ"
+    ]
+  },
+  {
+    "code": "1421",
+    "names": [
+      "Long Nail Tips",
+      "ロングネイルチップ"
+    ]
+  },
+  {
+    "code": "1422",
+    "names": [
+      "Spider Limbs",
+      "スパイダーリム"
+    ]
+  },
+  {
+    "code": "1423",
+    "names": [
+      "Spider Limbs/B",
+      "スパイダーリム/B"
+    ]
+  },
+  {
+    "code": "1424",
+    "names": [
+      "Simple Slip-On",
+      "シンプルスリッポン"
+    ]
+  },
+  {
+    "code": "1425",
+    "names": [
+      "Aelio Valkys [Ba]",
+      "エアリオヴァルキス[Ba]"
+    ]
+  },
+  {
+    "code": "1426",
+    "names": [
+      "Aelio Valkys/2 [Ba]",
+      "エアリオヴァルキス/2[Ba]"
+    ]
+  },
+  {
+    "code": "1427",
+    "names": [
+      "Aelio Valkys/3 [Ba]",
+      "エアリオヴァルキス/3[Ba]"
+    ]
+  },
+  {
+    "code": "1428",
+    "names": [
+      "Aelio Valkys/4 [Ba]",
+      "エアリオヴァルキス/4[Ba]"
+    ]
+  },
+  {
+    "code": "1429",
+    "names": [
+      "Aelio Valkys [In]",
+      "エアリオヴァルキス[In]"
+    ]
+  },
+  {
+    "code": "1430",
+    "names": [
+      "Aelio Valkys/2 [In]",
+      "エアリオヴァルキス/2[In]"
+    ]
+  },
+  {
+    "code": "1431",
+    "names": [
+      "Miness Lodia [Se]",
+      "ミーネスロディア[Se]"
+    ]
+  },
+  {
+    "code": "1432",
+    "names": [
+      "Miness Lodia/2 [Se]",
+      "ミーネスロディア/2[Se]"
+    ]
+  },
+  {
+    "code": "1433",
+    "names": [
+      "Miness Lodia/3 [Se]",
+      "ミーネスロディア/3[Se]"
+    ]
+  },
+  {
+    "code": "1434",
+    "names": [
+      "Miness Lodia/4 [Se]",
+      "ミーネスロディア/4[Se]"
+    ]
+  },
+  {
+    "code": "1435",
+    "names": [
+      "Miness Lodia [In]",
+      "ミーネスロディア[In]"
+    ]
+  },
+  {
+    "code": "1436",
+    "names": [
+      "Miness Lodia/2 [In]",
+      "ミーネスロディア/2[In]"
+    ]
+  },
+  {
+    "code": "1437",
+    "names": [
+      "Cober Vis [Se]",
+      "クーヴェルウィーズ[Se]"
+    ]
+  },
+  {
+    "code": "1438",
+    "names": [
+      "Cober Vis/2 [Se]",
+      "クーヴェルウィーズ/2[Se]"
+    ]
+  },
+  {
+    "code": "1439",
+    "names": [
+      "Cober Vis/B [Se]",
+      "クーヴェルウィーズ/B[Se]"
+    ]
+  },
+  {
+    "code": "1440",
+    "names": [
+      "Cober Vis/C [Se]",
+      "クーヴェルウィーズ/C[Se]"
+    ]
+  },
+  {
+    "code": "1441",
+    "names": [
+      "Aelio Wardat [Ba]",
+      "エアリオウォルダ[Ba]"
+    ]
+  },
+  {
+    "code": "1442",
+    "names": [
+      "Aelio Wardat/2 [Ba]",
+      "エアリオウォルダ/2[Ba]"
+    ]
+  },
+  {
+    "code": "1443",
+    "names": [
+      "Aelio Wardat/B [Ba]",
+      "エアリオウォルダ/B[Ba]"
+    ]
+  },
+  {
+    "code": "1444",
+    "names": [
+      "Aelio Wardat/B2 [Ba]",
+      "エアリオウォルダ/B2[Ba]"
+    ]
+  },
+  {
+    "code": "1445",
+    "names": [
+      "Aelio Wardat [In]",
+      "エアリオウォルダ[In]"
+    ]
+  },
+  {
+    "code": "1446",
+    "names": [
+      "Aelio Wardat/2 [In]",
+      "エアリオウォルダ/2[In]"
+    ]
+  },
+  {
+    "code": "1447",
+    "names": [
+      "Miness Hair",
+      "ミーネスヘアー"
+    ]
+  },
+  {
+    "code": "1448",
+    "names": [
+      "Valkyz Hair",
+      "ヴァルキスヘアー"
+    ]
+  },
+  {
+    "code": "1449",
+    "names": [
+      "Noire Tear/B",
+      "ノワーレティアーズ/B"
+    ]
+  },
+  {
+    "code": "1450",
+    "names": [
+      "Common Moustache",
+      "コモンマスタッシュ"
+    ]
+  },
+  {
+    "code": "1451",
+    "names": [
+      "Allies Tattoo",
+      "アライズタトゥー"
+    ]
+  },
+  {
+    "code": "1452",
+    "names": [
+      "Allies Tattoo/B",
+      "アライズタトゥー/B"
+    ]
+  },
+  {
+    "code": "1453",
+    "names": [
+      "Valkys Tights",
+      "ヴァルキスタイツ"
+    ]
+  },
+  {
+    "code": "1454",
+    "names": [
+      "Valkys Tights/B",
+      "ヴァルキスタイツ/B"
+    ]
+  },
+  {
+    "code": "1455",
+    "names": [
+      "Chest Bandages",
+      "チェストバンデージ"
+    ]
+  },
+  {
+    "code": "1456",
+    "names": [
+      "Chest Bandages/B",
+      "チェストバンデージ/B"
+    ]
+  },
+  {
+    "code": "1457",
+    "names": [
+      "Carriage Scar",
+      "カレッジスカー"
+    ]
+  },
+  {
+    "code": "1458",
+    "names": [
+      "Lodia Hairpin",
+      "ロディアヘアピン"
+    ]
+  },
+  {
+    "code": "1459",
+    "names": [
+      "Wardat Waistcloth",
+      "ウォルダウエストクロス"
+    ]
+  },
+  {
+    "code": "1460",
+    "names": [
+      "Wardat Turban",
+      "ウォルダターバン"
+    ]
+  },
+  {
+    "code": "1461",
+    "names": [
+      "Wardat Stole",
+      "ウォルダストール"
+    ]
+  },
+  {
+    "code": "1462",
+    "names": [
+      "Gridat Waistcloth",
+      "グリッダウエストクロス"
+    ]
+  },
+  {
+    "code": "1463",
+    "names": [
+      "Valkys Buckler",
+      "ヴァルキスバックラー"
+    ]
+  },
+  {
+    "code": "1464",
+    "names": [
+      "Valkys Waistcloth",
+      "ヴァルキスウエストクロス"
+    ]
+  },
+  {
+    "code": "1465",
+    "names": [
+      "Sidearm Missile",
+      "キャリングミサイル"
+    ]
+  },
+  {
+    "code": "1466",
+    "names": [
+      "Sidearm Missile/2",
+      "キャリングミサイル/2"
+    ]
+  },
+  {
+    "code": "1467",
+    "names": [
+      "Machine Wings",
+      "マシーネウィング"
+    ]
+  },
+  {
+    "code": "1468",
+    "names": [
+      "Machine Wings/2",
+      "マシーネウィング/2"
+    ]
+  },
+  {
+    "code": "1469",
+    "names": [
+      "Pritail Cerca [Se]",
+      "プリテールチェルカ[Se]"
+    ]
+  },
+  {
+    "code": "1470",
+    "names": [
+      "Pritail Cerca/2 [Se]",
+      "プリテールチェルカ/2[Se]"
+    ]
+  },
+  {
+    "code": "1471",
+    "names": [
+      "Pritail Cerca/3 [Se]",
+      "プリテールチェルカ/3[Se]"
+    ]
+  },
+  {
+    "code": "1472",
+    "names": [
+      "Pritail Cerca/4 [Se]",
+      "プリテールチェルカ/4[Se]"
+    ]
+  },
+  {
+    "code": "1473",
+    "names": [
+      "D'Or Vitesse [Se]",
+      "ディオーレヴィテス[Se]"
+    ]
+  },
+  {
+    "code": "1474",
+    "names": [
+      "D'Or Vitesse/2 [Se]",
+      "ディオーレヴィテス/2[Se]"
+    ]
+  },
+  {
+    "code": "1475",
+    "names": [
+      "D'Or Vitesse/3 [Se]",
+      "ディオーレヴィテス/3[Se]"
+    ]
+  },
+  {
+    "code": "1476",
+    "names": [
+      "D'Or Vitesse/4 [Se]",
+      "ディオーレヴィテス/4[Se]"
+    ]
+  },
+  {
+    "code": "1477",
+    "names": [
+      "D'Or Vitesse [In]",
+      "ディオーレヴィテス[In]"
+    ]
+  },
+  {
+    "code": "1478",
+    "names": [
+      "D'Or Vitesse/2 [In]",
+      "ディオーレヴィテス/2[In]"
+    ]
+  },
+  {
+    "code": "1479",
+    "names": [
+      "Pritail Deeno [Se]",
+      "プリテールディーノ[Se]"
+    ]
+  },
+  {
+    "code": "1480",
+    "names": [
+      "Pritail Deeno/2 [Se]",
+      "プリテールディーノ/2[Se]"
+    ]
+  },
+  {
+    "code": "1481",
+    "names": [
+      "Pritail Deeno/3 [Se]",
+      "プリテールディーノ/3[Se]"
+    ]
+  },
+  {
+    "code": "1482",
+    "names": [
+      "Pritail Deeno/4 [Se]",
+      "プリテールディーノ/4[Se]"
+    ]
+  },
+  {
+    "code": "1483",
+    "names": [
+      "Formal Clyde [Se]",
+      "フォーメルクライド[Se]"
+    ]
+  },
+  {
+    "code": "1484",
+    "names": [
+      "Formal Clyde/2 [Se]",
+      "フォーメルクライド/2[Se]"
+    ]
+  },
+  {
+    "code": "1485",
+    "names": [
+      "Formal Clyde/3 [Se]",
+      "フォーメルクライド/3[Se]"
+    ]
+  },
+  {
+    "code": "1486",
+    "names": [
+      "Formal Clyde/4 [Se]",
+      "フォーメルクライド/4[Se]"
+    ]
+  },
+  {
+    "code": "1487",
+    "names": [
+      "N-Tank Top [In]",
+      "N-タンクトップ[In]"
+    ]
+  },
+  {
+    "code": "1488",
+    "names": [
+      "N-Tank Top/2 [In]",
+      "N-タンクトップ/2[In]"
+    ]
+  },
+  {
+    "code": "1489",
+    "names": [
+      "Cerca Hair",
+      "チェルカヘアー"
+    ]
+  },
+  {
+    "code": "1490",
+    "names": [
+      "D'Or Long",
+      "ディオーレロング"
+    ]
+  },
+  {
+    "code": "1491",
+    "names": [
+      "Lucciola Eyes",
+      "ルシオーラアイ"
+    ]
+  },
+  {
+    "code": "1492",
+    "names": [
+      "Cute Eyebrows",
+      "プリティまゆ"
+    ]
+  },
+  {
+    "code": "1493",
+    "names": [
+      "Glassy Lip Gloss",
+      "グラッシーグロスリップ"
+    ]
+  },
+  {
+    "code": "1494",
+    "names": [
+      "Glassy Lip Gloss/2",
+      "グラッシーグロスリップ/2"
+    ]
+  },
+  {
+    "code": "1495",
+    "names": [
+      "Glassy Lip Gloss/3",
+      "グラッシーグロスリップ/3"
+    ]
+  },
+  {
+    "code": "1496",
+    "names": [
+      "Glassy Lip Gloss/4",
+      "グラッシーグロスリップ/4"
+    ]
+  },
+  {
+    "code": "1497",
+    "names": [
+      "Glassy Lip Gloss/5",
+      "グラッシーグロスリップ/5"
+    ]
+  },
+  {
+    "code": "1498",
+    "names": [
+      "Cherry Blossom Thigh-Highs/B",
+      "サクラザキニーソ/B"
+    ]
+  },
+  {
+    "code": "1499",
+    "names": [
+      "Slit Arm Covers",
+      "スリットアームカバー"
+    ]
+  },
+  {
+    "code": "1500",
+    "names": [
+      "Slit Arm Covers/B",
+      "スリットアームカバー/B"
+    ]
+  },
+  {
+    "code": "1501",
+    "names": [
+      "Deeno Hat",
+      "ディーノハット"
+    ]
+  },
+  {
+    "code": "1502",
+    "names": [
+      "Rosa Cazaria",
+      "ローザカザリア"
+    ]
+  },
+  {
+    "code": "1503",
+    "names": [
+      "Wedding Earrings",
+      "ハイラートピアス"
+    ]
+  },
+  {
+    "code": "1504",
+    "names": [
+      "Bridal Necklace",
+      "ハイラートネックレス"
+    ]
+  },
+  {
+    "code": "1505",
+    "names": [
+      "Round Bouquet",
+      "ラウンドブーケ"
+    ]
+  },
+  {
+    "code": "1506",
+    "names": [
+      "Round Bouquet/B",
+      "ラウンドブーケ/B"
+    ]
+  },
+  {
+    "code": "1507",
+    "names": [
+      "Casado Back Ribbon",
+      "カザードバックリボン"
+    ]
+  },
+  {
+    "code": "1508",
+    "names": [
+      "Elven Ear Cuff",
+      "エルフェンイヤーカフ"
+    ]
   }
 ]
